@@ -1,0 +1,16 @@
+FixIt Frontend
+│
+├── 1. React + Vite + TypeScript foundation
+├── 2. Project structure / feature architecture
+├── 3. Routing
+├── 4. API layer with Axios
+├── 5. Authentication
+│      ├── HttpOnly JWT cookie
+│      ├── CSRF token
+│      └── protected routes
+├── 6. React Query
+├── 7. Forms + validation
+├── 8. UI / Tailwind / shadcn
+├── 9. Client features
+├── 10. Provider features
+└── 11. Production build & deployment
