@@ -1,9 +1,8 @@
+import AppRouter from "./app/router/AppRouter";
+
 function App() {
   return (
-    <div>
-      <h1>FixIt</h1>
-      <p>Connect with skilled professionals.</p>
-    </div>
+   <AppRouter />
   );
 }
 
