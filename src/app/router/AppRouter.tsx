@@ -1,7 +1,7 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 import DashboardLayout from "../../layouts/DashboardLayout";
-import PublicLayout from "../../layouts/PublicLayout";
+import PublicLayout from "../../layouts/PublicLayouts";
 
 import DashboardPage from "../../pages/DashboardPage";
 import HomePage from "../../pages/HomePage";
