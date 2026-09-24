@@ -1,8 +1,13 @@
+import ApiTest from "../components/Apitest";
+
 function HomePage() {
   return (
-    <div>
-      <h1>FixIt</h1>
+     <div>
+      
+
       <p>Connect with skilled professionals.</p>
+
+      <ApiTest />
     </div>
   );
 }
